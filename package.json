@@ -1,0 +1,20 @@
+{
+  "name": "eventful",
+  "version": "1.0.0",
+  "description": "A small inheritor for event handling.",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noahbkim/eventful-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noahbkim/eventful-ts/issues"
+  },
+  "homepage": "https://github.com/noahbkim/eventful-ts#readme",
+  "dependencies": {
+    "typescript": "^3.9.9"
+  },
+  "devDependencies": {}
+}
